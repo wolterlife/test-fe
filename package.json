@@ -1,6 +1,6 @@
 {
   "name": "test-fe",
-  "homepage": "./",
+  "homepage": "https://wolterlife.github.io/test-fe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -6,7 +6,7 @@ import { startMockingSocial } from '@sidekick-monorepo/internship-backend';
 
 async function enableMocking() {
   if (process.env.NODE_ENV !== 'production') {
-    await startMockingSocial('');
+    await startMockingSocial('/test-fe');
   }
 }
 
